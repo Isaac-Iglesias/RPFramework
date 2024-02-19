@@ -21,6 +21,8 @@ _Isaac's Utils FrameAPI_
 - Backpacks
 - Machines
 - Phone (with calls and SMS)
+- Enhanced Health System
+- Thirst System
 
 _RPFramework Client Mod_
 - Interactive Main Menu based on Isaac's Utils FrameAPI.
