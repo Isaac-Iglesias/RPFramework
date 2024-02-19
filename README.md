@@ -41,5 +41,5 @@ _RPValues_
 - Enterprise System.
 - Enhanced performances.
 
-## Will a key-in-hand base exists ?
+## Will there exist a turnkey base?
 Yes, follow this link : [CraftYourLife-To-RPFramework](https://github.com/Isaac-Iglesias/CYL2RPFW)
